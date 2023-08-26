@@ -1,15 +1,15 @@
 # Savings_account
 
 
-**Cooperative Savings Contract**
+## Cooperative Savings Contract
 
 This archive encompasses a smart contract, crafted in Solidity, designed for the simulation of a collaborative savings account for a hypothetical fintech organization. The contract empowers a duo of users to operate a shared savings account, facilitating the insertion and retrieval of funds. To actualize its fiscal operations, the Solidity smart contract is embedded with ether-handling functions.
 
-**Inside the Box?**
+## Inside the Box?
 
 At the heart of this repository lies the Solidity blueprint named `collaborative_savings.sol`. This design guides the instantiation and supervision of a co-managed savings account.
 
-**Guidelines**
+## Guidelines
 
 The `CooperativeSavings` contract was articulated, cross-checked, and instantiated within the Remix VM (London) made accessible by the Remix IDE.
 
