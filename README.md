@@ -47,6 +47,12 @@ The extraction feature of the contract was examined through:
 
 Functions like `accountBalance`, `previousWithdrawalEntity`, and `lastExtractedSum` corroborated the transactions.
 
+
+
+# Visuals
+
+![Alt text](image.png)
+
 **Wrap-up**
 
 The `CooperativeSavings` contract was efficaciously brought to life and validated in the Remix VM (London) environment. It mirrored the quintessential attributes of a collaborative savings account, furnishing mechanisms to add and retrieve financial assets. The ether-handling functionalities inscribed in the contract adeptly mirrored the account movements. Future enhancements can draw inspiration from this contract, elaborating on multifaceted shared account capabilities apt for pragmatic fintech solutions.
