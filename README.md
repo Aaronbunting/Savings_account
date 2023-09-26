@@ -53,6 +53,10 @@ Functions like `accountBalance`, `previousWithdrawalEntity`, and `lastExtractedS
 
 ![Alt text](image.png)
 
+![image](https://github.com/Aaronbunting/Savings_account/assets/128101698/fd8f66ba-5a85-4697-9db9-a0cd2709ddfd)
+
+![image](https://github.com/Aaronbunting/Savings_account/assets/128101698/0f669d26-df4e-4ada-b6ea-1f3aa9c50a92)
+
 **Wrap-up**
 
 The `CooperativeSavings` contract was efficaciously brought to life and validated in the Remix VM (London) environment. It mirrored the quintessential attributes of a collaborative savings account, furnishing mechanisms to add and retrieve financial assets. The ether-handling functionalities inscribed in the contract adeptly mirrored the account movements. Future enhancements can draw inspiration from this contract, elaborating on multifaceted shared account capabilities apt for pragmatic fintech solutions.
